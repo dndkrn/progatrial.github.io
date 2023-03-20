@@ -1,0 +1,136 @@
+li {
+  list-style: none;
+  float: right;
+  padding-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  font-family: Calibri;
+}
+
+header {
+  background-color: rgba(34, 49, 52, 0.856);
+  height: 40px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}
+
+.header-logo {
+  font-size: 25px;
+  color: rgb(245, 242, 242) ;
+  font-family: Verdana;
+  font-weight: 700;
+  opacity: 0.7;
+  margin-left: 15px;
+  margin-top: 3px; 
+  float: left;
+}
+
+.header-right {
+  float: right; 
+  color:whitesmoke;
+  margin-top: 10px;
+}
+
+.portofolio {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.portofolio h1 {
+  font-family: Verdana ;
+  font-size: 60px;
+  color: rgba(34, 49, 52, 0.9);
+}
+
+.portofolio h2 {
+  font-family: Tahoma;
+  font-weight: 100 ;
+  font-size: 40px;
+  color: rgba(15, 15, 15, 0.747);
+}
+
+span {
+  color: yellow;
+}
+
+.ninja {
+  height: 200px;
+  width: 200px;
+}
+
+.about {
+  font-family: Calibri;
+  text-align: center;
+  background-color: rgba(47, 79, 79, 0.103);
+  height:200px;
+  padding-top: 15px;
+
+}
+
+.example {
+  font-family: Calibri;
+  text-align: center;
+  width: 100%;
+  height:400px;
+}
+
+
+.contoh img {
+  height: 150px;
+}
+
+.contact {
+  text-align: center;
+  background-color: rgba(47, 79, 79, 0.103) ;
+  height: 300px;
+  padding-top:25px;
+  padding-bottom: 25px;
+}
+
+.contact h3 {
+  font-family: Calibri;
+}
+
+textarea {
+  width: 400px;
+  font-family: Calibri;
+  border-color: white;
+  color: grey;
+  height: 40px;
+}
+
+.contact button {
+  font-size: 15px;
+  font-weight: 5500;
+  font-family: Calibri;
+  width: 180px;
+  background-color: yellow;
+  opacity: 0.7;
+  border-color: yellow;
+  padding: 5px 5px;
+}
+
+footer {
+  background-color: rgba(34, 49, 52, 0.856);
+  height: 65px; 
+}
+
+.footer-logo {
+  font-family: Verdana;
+  color: whitesmoke;
+  opacity: 0.8;
+  padding-top: 1px;
+  padding-left: 15px;
+  float: left;
+}
+
+.footer-list {
+  color: white;
+  font-family: Verdana;
+  font-size: 9px;
+  float: right;
+  padding-right: 15px;
+}
